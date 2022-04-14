@@ -15,7 +15,7 @@ $ cd .. && catkin_make
 ```
 > For using the object detection in rplidar, use the following launch files 
 ```
-$ **roslaunch obstacle_detection object_detection_rplidar.launch**
+** $roslaunch obstacle_detection object_detection_rplidar.launch **
 ```
 > if you are using another lidar, make sure /scan topic is publishing then run
 ```
