@@ -1,0 +1,4 @@
+<launch>
+  <node name="obstacle_detection"  pkg="obstacle_detection"  type="obstacle_detection.py" output="screen">
+  </node>
+</launch>
