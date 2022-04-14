@@ -10,13 +10,14 @@ For clone this file use :
 ```
 $ mkdir -p catkin_ws/src
 $ cd catkin_ws/src
-#### $ git clone https://github.com/sreesms/lidar_obstacle_detection_ros.git
+$ git clone https://github.com/sreesms/lidar_obstacle_detection_ros.git
 $ cd .. && catkin_make
 ```
 > For using the object detection in rplidar, use the following launch files 
-
-#### $ roslaunch obstacle_detection object_detection_rplidar.launch
-
+```
+$ **roslaunch obstacle_detection object_detection_rplidar.launch**
+```
 > if you are using another lidar, make sure /scan topic is publishing then run
-
-#### $ roslaunch obstacle_detection object_detection.launch
+```
+$ **roslaunch obstacle_detection object_detection.launch**
+```
