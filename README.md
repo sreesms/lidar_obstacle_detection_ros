@@ -4,7 +4,7 @@
 
 **This package is for the detection of obstacles nearby the lidars**
 
-> In this package I have used the rplidar. You can also use another lidar which publishes the /scan topic.
+> In this package I have used **rplidar A2** (https://www.slamtec.com/en/Lidar/A2). You can also use another lidar which publishes the /scan topic.
 
 For clone this file use :
 ```
