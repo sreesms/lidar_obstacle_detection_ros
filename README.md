@@ -1,5 +1,5 @@
 
-# lidar_obstacle_detection_ros
+# Lidar_obstacle_detection
 2D Lidar ROS package for obstacle detection
 
 **This package is for the detection of obstacles nearby the lidars**
